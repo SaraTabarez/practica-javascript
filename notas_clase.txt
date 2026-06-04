@@ -1,0 +1,9 @@
+Const se usa cuando sabes que el valor no va a cambiar
+
+const saludar = (nom) => {
+return "hola " + nom;
+}
+
+los parentesis se quitan cuando solo tiene un argumento, si hay mas de uno o es null se ponen forsozamente
+las llaves y el return se quitan cuando solo hay una linea de instrucción, de lo contrario se mantienen
+
